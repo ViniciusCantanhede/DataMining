@@ -1,1 +1,2 @@
-# DataMining
+# DataMining 
+Objetivo da Atividade: O objetivo desta atividade prática é permitir a aplicação de seus conhecimentos sobre árvores de decisão para analisar o grau de abandono escolar na educação básica usando o conjunto de dados disponibilizado pelo INEP. Devendo ser capaz de construir uma árvore de decisão e interpretar os resultados para identificar os principais fatores que contribuem para o abandono escolar.
